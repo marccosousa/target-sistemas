@@ -14,6 +14,7 @@ do
     Console.Write(aux + " ");
 } while (aux <= num);
 Console.WriteLine();
+
 bool procurarNaSequencia = meusNumeros.Contains(num);
 
 if (procurarNaSequencia)

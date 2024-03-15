@@ -1,4 +1,4 @@
-﻿Console.Write("Digite o texo que você quer inverter: ");
+﻿Console.Write("Digite o texto que você quer inverter: ");
 string texto = Console.ReadLine(); 
 
 string textoInvertido = "";
