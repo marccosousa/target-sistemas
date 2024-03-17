@@ -6,7 +6,7 @@
 
 <p align="center">
  <a href="#sobre">Sobre</a> • 
- <a href="#sobre">Demonstração</a> • 
+ <a href="#demonstracao">Demonstração</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#autor">Autor</a>
 </p>
@@ -46,8 +46,8 @@
   Tecnologias
  </h2>
  <p align="center">
-      • <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/"> C# </a> •
-	 <a href="https://learn.microsoft.com/en-us/visualstudio/windows/?view=vs-2022"> VSCommunity 2022</a> •
+      	 <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/"> C# </a> •
+	 <a href="https://learn.microsoft.com/en-us/visualstudio/windows/?view=vs-2022"> VSCommunity 2022</a> 
 </p>
 
 ## Autor
