@@ -24,14 +24,14 @@
 
 <h2 align="center" id="obs-importante">Observação importante</h2>
 <p>
-  Eu acabei colocando as minhas respostas e resoluções dentro da caixa de texto da própria gupy e não aqui! Espero que não atrapalhe!!
+  Eu acabei colocando as minhas respostas e resoluções dos exercícios de lógica dentro da caixa de texto da própria gupy e não aqui! Espero que não atrapalhe!!
   Por aqui eu acabei colocando apenas os códigos que foram pedidos. 
 </p>
 
 <h2 align="center" id="demonstracao"> Demonstração </h2>
 <div align="center">
  	<img src="./assets/prompt-questao1.png"></img>
-	<p>Saída da primeira questão. </p>
+	<p>Saída da primeira questão, que o objetivo foi demonstrar qual seria a saída de um código previamente estabelecido. </p>
 	<h2></h2>
 	<img src="./assets/prompt-questao2-true.png"></img>
 	<p>Resultado da segunda questão, que o objetivo foi fazer um código que responderia se um número qualquer pertenceria a sequência de Fibonacci ou não. Nesse caso, ele pertence.</p>
