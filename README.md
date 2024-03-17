@@ -5,6 +5,8 @@
 </h4>
 
 <p align="center">
+ <a href="#sobre">Sobre</a> • 
+ <a href="#sobre">Demonstração</a> • 
  <a href="#tecnologias">Tecnologias</a> • 
  <a href="#autor">Autor</a>
 </p>
@@ -20,17 +22,32 @@
   Muito interessante passar por processos assim! Eu curti muito!!
 </p>
 
-<h2 align="center" id="sobre">Observação importante</h2>
+<h2 align="center" id="obs-importante">Observação importante</h2>
 <p>
   Eu acabei colocando as minhas respostas e resoluções dentro da caixa de texto da própria gupy e não aqui! Espero que não atrapalhe!!
   Por aqui eu acabei colocando apenas os códigos que foram pedidos. 
 </p>
+
+<h2 align="center" id="demonstracao"> Demonstração </h2>
+<div align="center">
+ 	<img src="./assets/prompt-questao1.png"></img>
+	<p>Saída da primeira questão. </p>
+	<h2></h2>
+	<img src="./assets/prompt-questao2-true.png"></img>
+	<p>Resultado da segunda questão, que o objetivo foi fazer um código que responderia se um número qualquer pertenceria a sequência de Fibonacci ou não. Nesse caso, ele pertence.</p>
+	<img src="./assets/prompt-questao2-false.png"></img>
+	<p>Resultado da segunda questão. Nesse caso, o número não pertence a sequência.</p>
+	<h2></h2>
+	<img src="./assets/prompt-questao5.png"></img>
+	<p>Resultado da quinta questão, que o proposto foi fazer um código que invertesse uma string.</p>
+</div>
 
 <h2 align="center" id="tecnologias">
   Tecnologias
  </h2>
  <p align="center">
       • <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/"> C# </a> •
+	 <a href="https://learn.microsoft.com/en-us/visualstudio/windows/?view=vs-2022"> VSCommunity 2022</a> •
 </p>
 
 ## Autor
